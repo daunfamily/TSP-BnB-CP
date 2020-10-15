@@ -32,8 +32,6 @@ Run one of the following commands depending on the wanted solving method :
 ```
 python cuttingplanes.py <dataset> <maxtime> 
 python branchandbound.py <dataset> <maxtime> 
-# Example : 
-# $ python cuttingplanes.py pr107.tsp 600
 ```
 where `<maxtime>` is expressed in seconds.
 
